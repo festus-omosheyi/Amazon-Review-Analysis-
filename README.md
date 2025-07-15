@@ -77,7 +77,7 @@ This project demonstrates the power of Excel in turning raw product review data 
 ---
 
 ## 📷 Dashboard Preview 
-![Dash_board](https://github.com/user-attachments/assets/57b1697b-46bb-438b-ba6f-708e9c01ef31)
+
 
 
 
